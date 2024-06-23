@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-36,
+				3
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "chonker Right",
+			"indices": []
+		},
+		{
+			"anim": "singDOWN",
+			"name": "chonker Down",
+			"fps": 24,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				10,
+				-30
+			]
+		},
+		{
+			"anim": "singUP",
+			"name": "chonker Up",
+			"fps": 24,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				-6,
+				12
+			]
+		},
+		{
+			"anim": "idle",
+			"name": "chonker Idle",
+			"fps": 24,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "singLEFT",
+			"name": "chonker Left",
+			"fps": 24,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				8,
+				0
+			]
+		}
+	],
+	"image": "characters/DADDY_DEAREST",
+	"scale": 1,
+	"sing_duration": 6.1,
+	"healthicon": "dad",
+	"position": [
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"flip_x": false,
+	"no_antialiasing": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	]
+}
